@@ -1,6 +1,6 @@
 # flutter_clean_architecture
 
-A new Flutter application.
+A simple number trivia app.
 
 ## Getting Started
 
